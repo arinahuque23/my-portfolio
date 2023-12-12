@@ -1,0 +1,20 @@
+[
+  {
+    "service_id": "1",
+    "services_name": "Car Rental Services",
+    "services_description": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+    "services_image": "https://i.ibb.co/qggdyXN/Getty-Images-1157181664-2400x1440.jpg",
+    "price": 14.7,
+    "provider_img": "",
+    "populer": "populer"
+  },
+  {
+    "service_id": "2",
+    "services_name": "Car Rental Services",
+    "services_description": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+    "services_image": "https://i.ibb.co/qggdyXN/Getty-Images-1157181664-2400x1440.jpg",
+    "price": 14.7,
+    "provider_img": "",
+    "populer": "populer"
+  }
+]
